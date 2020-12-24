@@ -1,19 +1,27 @@
-## esteves-esta 
+## Olá  👋
 
-### esteves está.... em construção 🌱
-Volte daqui a um tempo e aqui terá uma ótima descrição 😄 
+### Fernanda está.... 
 
-<!--
-**esteves-esta/esteves-esta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+...trabalhando como Analista Desenvolvedora Jr. em projetos que utilizam: ReactJS, React Native, MongoDb, Arquitetura Serveless com Azure Functions.
 
-Here are some ideas to get you started:
+[Site pessoal](https://esteves-esta.github.io/) ///
+[Linkedin](https://linkedin.com/in/fernanda-e-48086a182)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre
+
+Minha primeira gradução é Design Gráfico e dessa forma foquei no começo dos meus estudos em programação em HTML e CSS. Conformei realizei um curso técnico em informática e gradução em Análise e Desenvolvimento de Sistemas também tive a possibilidade de focar não só no frontend mas também no backend, abaixo estão algumas linguagens que já utilizei em projeto acadêmicos ou profissionais:
+
+- Java
+- C# Asp.Net MVC
+- Angular JS
+- HTML 5
+- CSS
+- ReactJS
+- React Native
+- Kotlin
+- Android
+- Java Spring
+- Javascript
+- Typescript
+
+
