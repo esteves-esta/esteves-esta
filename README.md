@@ -2,7 +2,7 @@
 
 ### Fernanda está.... 
 
-...trabalhando como Analista Desenvolvedora Jr. em projetos que utilizam: ReactJS, React Native, MongoDb, Arquitetura Serveless com Azure Functions.
+...trabalhando como Desenvolvedora Front End Jr.
 
 [Site pessoal](https://esteves-esta.github.io/) ///
 [Linkedin](https://linkedin.com/in/fernanda-e-48086a182)
