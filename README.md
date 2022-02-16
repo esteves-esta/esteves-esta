@@ -5,7 +5,8 @@
 ...trabalhando como Desenvolvedora Front End Jr.
 
 [Site pessoal](https://esteves-esta.github.io/) ///
-[Linkedin](https://linkedin.com/in/fernanda-e-48086a182)
+[Linkedin](https://linkedin.com/in/fernanda-e-48086a182) ///
+[Behance](https://www.behance.net/ferdinanda)
 
 ### Sobre
 
