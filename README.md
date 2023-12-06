@@ -2,7 +2,7 @@
 
 ### Fernanda está.... 
 
-...trabalhando como Desenvolvedora Front End Jr.
+...trabalhando como Desenvolvedora Front End.
 
 [Site pessoal](https://esteves-esta.github.io/) ///
 [Linkedin](https://linkedin.com/in/fernanda-e-48086a182) ///
