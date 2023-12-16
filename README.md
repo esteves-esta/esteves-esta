@@ -1,8 +1,6 @@
 ## Olá  👋
 
-### Fernanda está.... 
-
-...trabalhando como Desenvolvedora Front End.
+### Sou a Fernanda 🌻.
 
 [Site pessoal](https://esteves-esta.github.io/) ///
 [Linkedin](https://linkedin.com/in/fernanda-e-48086a182) ///
