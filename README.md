@@ -1,6 +1,6 @@
 # Oi 😊 
 
-> Sou a Fernanda 🌻 Trabalho como frontend a 4 anos e meio, meu github tem vários projetos acadêmicos e estou recentemente adicionando novos projetinhos de front 🌟😉.
+> Sou a Fernanda 🌻 Trabalho como frontend desde 2019 e meu github tem vários projetos acadêmicos e estou recentemente adicionando novos projetinhos de front 🌟😉.
 
 > [Portfolio](https://esteves-esta.github.io/) ✨
 [Linkedin](https://linkedin.com/in/fernanda-e-48086a182) ✨
